@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c600d170-b282-4650-9705-10f1d713e2ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yyk5uivcGUlxibN3ZN2zovU4Iz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GUI/trainingImages/0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kalman_deneme\GUI" />
+      <recent name="D:\kalman_deneme\FaceRecognition-master" />
+      <recent name="D:\kalman_deneme\pyqt5-face-recognition-master" />
+      <recent name="D:\kalman_deneme" />
+      <recent name="D:\kalman_deneme\guıdeneme" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kalman_deneme\GUI\trainingImages\0" />
+      <recent name="D:\kalman_deneme" />
+      <recent name="D:\kalman_deneme\GUI" />
+      <recent name="D:\kalman_deneme\yeniyuz" />
+      <recent name="D:\kalman_deneme\FaceRecognition-master\TestImages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FaceRecApp">
+    <configuration name="FaceRecApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kalman_deneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\kalman_deneme\GUI\FaceRecApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kalman_deneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deneme (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kalman_deneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceRecognition-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceRecognition-master/deneme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kalman_deneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoTester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kalman_deneme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceRecognition-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceRecognition-master/videoTester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FaceRecApp" />
+        <item itemvalue="Python.date" />
+        <item itemvalue="Python.deneme (1)" />
+        <item itemvalue="Python.videoTester" />
+        <item itemvalue="Python.excel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c600d170-b282-4650-9705-10f1d713e2ea" name="Default Changelist" comment="" />
+      <created>1583922041470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583922041470</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588371931649">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1588371931649" />
+    <state x="497" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588371786164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="496" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1471.864@0.0.1471.864" timestamp="1587736988083" />
+    <state x="497" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1474.864@0.0.1474.864" timestamp="1588371786164" />
+    <state x="368" y="169" key="#com.intellij.ide.util.ExportDialog" timestamp="1587987479006">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="368" y="169" key="#com.intellij.ide.util.ExportDialog/0.0.1474.864@0.0.1474.864" timestamp="1587987479006" />
+    <state x="468" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587984421237">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="468" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1474.864@0.0.1474.864" timestamp="1587984421237" />
+    <state x="464" y="58" key="#kalman" timestamp="1587645185723">
+      <screen x="0" y="0" width="1471" height="864" />
+    </state>
+    <state x="464" y="58" key="#kalman/0.0.1471.864@0.0.1471.864" timestamp="1587645185723" />
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1588508229724">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1471.864@0.0.1471.864" timestamp="1587729836479" />
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1588508229724" />
+    <state width="1453" height="119" key="GridCell.Tab.0.bottom" timestamp="1588520162931">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1451" height="240" key="GridCell.Tab.0.bottom/0.0.1471.864@0.0.1471.864" timestamp="1587737659479" />
+    <state width="1453" height="119" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1588520162931" />
+    <state width="1453" height="119" key="GridCell.Tab.0.center" timestamp="1588520162931">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1451" height="240" key="GridCell.Tab.0.center/0.0.1471.864@0.0.1471.864" timestamp="1587737659479" />
+    <state width="1453" height="119" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1588520162931" />
+    <state width="1453" height="119" key="GridCell.Tab.0.left" timestamp="1588520162930">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1451" height="240" key="GridCell.Tab.0.left/0.0.1471.864@0.0.1471.864" timestamp="1587737659479" />
+    <state width="1453" height="119" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1588520162930" />
+    <state width="1453" height="119" key="GridCell.Tab.0.right" timestamp="1588520162931">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1451" height="240" key="GridCell.Tab.0.right/0.0.1471.864@0.0.1471.864" timestamp="1587737659479" />
+    <state width="1453" height="119" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1588520162931" />
+    <state width="1453" height="277" key="GridCell.Tab.1.bottom" timestamp="1588510149678">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="277" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1588510149678" />
+    <state width="1453" height="277" key="GridCell.Tab.1.center" timestamp="1588510149678">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="277" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1588510149678" />
+    <state width="1453" height="277" key="GridCell.Tab.1.left" timestamp="1588510149678">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="277" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1588510149678" />
+    <state width="1453" height="277" key="GridCell.Tab.1.right" timestamp="1588510149678">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="277" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1588510149678" />
+    <state x="410" y="0" key="SettingsEditor" timestamp="1588432153595">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="64" y="149" key="SettingsEditor/0.0.1471.864@0.0.1471.864" timestamp="1587729072201" />
+    <state x="410" y="0" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1588432153595" />
+    <state x="432" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1588520926752">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="429" y="256" key="com.intellij.ide.util.TipDialog/0.0.1463.864@0.0.1463.864" timestamp="1583922062786" />
+    <state x="431" y="256" key="com.intellij.ide.util.TipDialog/0.0.1471.864@0.0.1471.864" timestamp="1587734926860" />
+    <state x="432" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1588520926752" />
+    <state x="480" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588200042758">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="480" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1474.864@0.0.1474.864" timestamp="1588200042758" />
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1588256648598">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1588256648598" />
+  </component>
+</project>
